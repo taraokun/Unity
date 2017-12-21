@@ -10,13 +10,13 @@ RollBall　……　Unityで制作したゲームのプログラム（迷路＋�
  :…　Script　実際のプログラム  
 　: :…　Game ゲーム部分のプログラム（Scene1　haruyasumi)  
 　: :  
-　: :…　BGMS.cs  
+　: :…　BGMS.cs  
 　: :　　BGMの操作  
-　: :…　Bullet.cs  
-　: :　　弾の衝突処理  
-　: :…　Camera.cs  
-　: :　　メインカメラの座標のコントロール  
-　: :…　CameraController.cs  
+　: :…　Bullet.cs  
+　: :　　弾の衝突処理  
+　: :…　Camera.cs  
+　: :　　メインカメラの座標のコントロール  
+　: :…　CameraController.cs  
 　: :　　上空を見下ろすカメラとメインカメラの切り替え部分  
 　: :…　Enemy.cs  
 　: :　　敵のステータスの処理とプレイヤー発見などの処理  
