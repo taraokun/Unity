@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyProject/Scene/BattleSample.unity
+  isLoaded: 1
+  isActive: 1

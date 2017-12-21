@@ -1,0 +1,5 @@
+#EnemyId,Name,Hp,Attack,Block,Rank
+0,slime,5,3,2,1
+1,goblin,7,4,3,2
+2,orc,10,3,4,3
+3,fairy,3,5,6,1
