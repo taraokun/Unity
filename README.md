@@ -9,10 +9,10 @@ RollBall　……　Unityで制作したゲームのプログラム（迷路＋�
  :  
  :…　Script　実際のプログラム  
 　:  
-  :…　Game ゲーム部分のプログラム（Scene1　haruyasumi)
-　: :  
+  :…　Game ゲーム部分のプログラム（Scene1　haruyasumi)  
+　: :  
 　: :…　BGMS.cs  
-　: :　　BGMの操作  
+　: :　　BGMの操作  
 　: :…　Bullet.cs  
 　: :　　弾の衝突処理  
 　: :…　Camera.cs  
