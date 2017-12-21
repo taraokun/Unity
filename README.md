@@ -9,9 +9,9 @@ RollBall　……　Unityで制作したゲームのプログラム（迷路＋�
  :  
  :…　Script　実際のプログラム  
  　:  
-   :…　Game ゲーム部分のプログラム（Scene1　haruyasumi）  
+   :…　Game ゲーム部分のプログラム（Scene1　haruyasumi)  
    : :  
-   : :…　BGMS.cs  　
+   : :…　BGMS.cs  
    : :　　BGMの操作  
    : :…　Bullet.cs  
    : :　　弾の衝突処理  
@@ -49,19 +49,19 @@ DangeonGame　……　Unityで制作途中のゲームの一部プログラム(
  :  
  :…　Battle　ゲーム部分のプログラム  
  :     :  
- :     :…　CreateGUI.cs　味方のステータスを表示させる。（今後応用する予定）
- :     :…　CsvColumnAttribute.cs　csvファイルを読み込むもの
- :     :…　EnemyStatus.cs　csvファイルから読み込んだステータスの処理
- :     :…　MiniMapCamera.cs　プレイヤーを追跡するカメラ
- :     :…　PlayerStatus.cs　プレイヤのステータスの管理
- :     :…　ThirdPersonCamera.cs　指定したオブジェクトの座標にカメラを移動する。
- :     :…　UnityChanControlScriptWithRigidBody.cs　プレイヤーの一マス進む処理や、アニメーシ  :　　　　　　　　　　　　　　　　　　　　　　　　　ョンのコントロール
- :
- :…　Resources　データの保管として使うcsvファイル
- :     :
- :     :…　EnemyData.csv　敵のステータス情報
- :
- :…　DungeonDemo.unitypackage　実際のゲームのパッケージ
+ :     :…　CreateGUI.cs　味方のステータスを表示させる。（今後応用する予定）  
+ :     :…　CsvColumnAttribute.cs　csvファイルを読み込むもの  
+ :     :…　EnemyStatus.cs　csvファイルから読み込んだステータスの処理  
+ :     :…　MiniMapCamera.cs　プレイヤーを追跡するカメラ  
+ :     :…　PlayerStatus.cs　プレイヤのステータスの管理  
+ :     :…　ThirdPersonCamera.cs　指定したオブジェクトの座標にカメラを移動する。  
+ :     :…　UnityChanControlScriptWithRigidBody.cs　プレイヤーの一マス進む処理や、アニメーシ  :　　　　　　　　　　　　　　　　　　　　　　　　　ョンのコントロール  
+ :  
+ :…　Resources　データの保管として使うcsvファイル  
+ :     :  
+ :     :…　EnemyData.csv　敵のステータス情報  
+ :  
+ :…　DungeonDemo.unitypackage　実際のゲームのパッケージ  
 
 
 
