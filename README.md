@@ -15,7 +15,7 @@ RollBall　……　Unityで制作したゲームのプログラム（迷路＋�
 　: :…　Bullet.cs  
 　: :　　弾の衝突処理  
 　: :…　Camera.cs  
-　: :　　メインカメラの座標のコントロール  　
+　: :　　メインカメラの座標のコントロール  
 　: :…　CameraController.cs  
 　: :　　上空を見下ろすカメラとメインカメラの切り替え部分  
 　: :…　Enemy.cs  
@@ -34,12 +34,12 @@ RollBall　……　Unityで制作したゲームのプログラム（迷路＋�
 　:  　　プレイヤーの上空を見上げるカメラ  
 　:  
 　:…　Title　タイトル画面のプログラム (Scene0 OP)  
- 　:…　ButtonController01.cs  
-　 :     タイトル画面のボタンの処理  
-　 :…　InputPlayerName.cs  
-　 :     入力された文字を保存する。  
-　 :…　MainController.cs  
-　       どのボタンが押されたか判定する。  
+ 　 :…　ButtonController01.cs  
+　  :     タイトル画面のボタンの処理  
+　  :…　InputPlayerName.cs  
+　  :     入力された文字を保存する。  
+　  :…　MainController.cs  
+　        どのボタンが押されたか判定する。  
   
   
 DangeonGame　……　Unityで制作途中のゲームの一部プログラム(ローグライク）  
